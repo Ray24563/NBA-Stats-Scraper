@@ -84,3 +84,13 @@ Thank you for trying out my application! I welcome any feedback that could help 
 **Email:** charlespalatino@gmail.com
 
 **Github:** Ray24563
+
+## Acknowledgement
+- **School**: National Teachers College
+- **Professor**: Mr. Ferdinand Blancia
+- **Block**: 3.1 BSIT
+- **Groupmates**:
+  - Enriquez, Andreiy
+  - Martinez, Joanna Mae
+  - Olmedo, Mark Nathan
+  - Zamora, Kurt
