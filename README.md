@@ -8,7 +8,7 @@ A stats scraper designed to gather and analyze preseason team performance data, 
 
 - Web scraping of NBA stats with Beautiful Soup.
 - GUI interface using Tkinter.
-- Statistical analysis with visualizations (Bar Plot).
+- Statistical analysis with visualizations.
 - Switchable sections with disappearing text widget.
 - Can save the data in Excel.
 
